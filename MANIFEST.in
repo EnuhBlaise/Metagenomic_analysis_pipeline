@@ -1,0 +1,10 @@
+include README.md
+include LICENSE
+include requirements*.txt
+include pytest.ini
+include *.sh
+recursive-include metagenomics_toolkit *.py
+recursive-include tests *.py
+recursive-exclude * __pycache__
+recursive-exclude * *.pyc
+recursive-exclude * *.pyo
