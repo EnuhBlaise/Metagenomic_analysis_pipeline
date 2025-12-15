@@ -2,6 +2,12 @@
 
 A comprehensive, modular Python wrapper for metagenomic analysis pipelines, integrating assembly, binning, classification, annotation, and quality control tools.
 
+
+# Scientific publications applying this pipeline
+Metagenomes and Metagenome-Assembled Genomes from Microbial Communities in a Biological Nutrient Removal Plant Operated at Los Angeles County Sanitation District (LACSD) with High and Low Dissolved Oxygen Conditions. doi: https://doi.org/10.1101/2025.11.10.687646. 
+
+Metagenomes and Metagenome-Assembled Genomes from Microbial Communities in a Biological Nutrient Removal Plant Operated at Hamptons Road Sanitation District (HRSD) with High and Low Dissolved Oxygen Conditions. doi: https://doi.org/10.1101/2025.11.10.687637
+
 ## Features
 
 - **Modular Design**: Each analysis step is a separate module that can be run independently
