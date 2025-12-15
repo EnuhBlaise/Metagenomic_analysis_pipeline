@@ -20,11 +20,11 @@ setup(
     name="metagenomics-toolkit",
     version="1.0.0",
     author="Blaise Manga Enuh",
-    author_email="enuh@wisc.edu",
+    author_email="blaisonyl@gmail.com",
     description="A comprehensive modular metagenomics analysis pipeline",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/your-username/metagenomics-toolkit",
+    url="https://github.com/EnuhBlaise/metagenomics-toolkit",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
@@ -61,8 +61,8 @@ setup(
     zip_safe=False,
     keywords="metagenomics bioinformatics assembly binning classification annotation",
     project_urls={
-        "Bug Reports": "https://github.com/your-username/metagenomics-toolkit/issues",
-        "Source": "https://github.com/your-username/metagenomics-toolkit",
-        "Documentation": "https://github.com/your-username/metagenomics-toolkit/wiki",
+        "Bug Reports": "https://github.com/EnuhBlaise/metagenomic_analysis_pipeline/issues",
+        "Source": "https://github.com/EnuhBlaise/metagenomic_analysis_pipeline",
+        "Documentation": "https://github.com/EnuhBlaise/metagenomic_analysis_pipeline/wiki",
     },
 )
