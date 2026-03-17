@@ -1,6 +1,8 @@
 # Metagenomics Toolkit
 
-<img width="2996" height="2291" alt="HRSD_tree_dec19" src="https://github.com/user-attachments/assets/6356c320-8d55-40ac-b60d-34d2069ae0e2" />
+
+<img width="3968" height="2955" alt="LACSD_tree_dec19 eps" src="https://github.com/user-attachments/assets/1e7d640b-1054-4565-b280-680da6fbc089" />
+Fig: Example Phylogenetic tree (Made with @TreeViewer) of the Metagenome-Assembled Genomes obtained from PacBio metagenomes.
 
 
 A comprehensive, modular Python wrapper for metagenomic analysis pipelines, integrating assembly, binning, classification, annotation, and quality control tools.
