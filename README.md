@@ -1,5 +1,8 @@
 # Metagenomics Toolkit
 
+<img width="2996" height="2291" alt="HRSD_tree_dec19" src="https://github.com/user-attachments/assets/6356c320-8d55-40ac-b60d-34d2069ae0e2" />
+
+
 A comprehensive, modular Python wrapper for metagenomic analysis pipelines, integrating assembly, binning, classification, annotation, and quality control tools.
 
 
